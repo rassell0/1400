@@ -1,4 +1,10 @@
 # Trippie Redd Merch E-Commerce App
+<Div >
+ <img align="left" alt="Coding" width="150" src="https://media.discordapp.net/attachments/1131378335205830698/1181431983264509982/IMG_0024.PNG?ex=65810946&is=656e9446&hm=85def3d87b7a8e0efcd9645a73a1ba2dbf1b3c215c961d573726cdf4d98f6584&=&width=478&height=1034">
+<img align="left" alt="Coding" width="150" src="https://media.discordapp.net/attachments/1131378335205830698/1181431983637799033/IMG_0025.PNG?ex=65810946&is=656e9446&hm=0ffe97b6a453d6d7195fecf02b082ea0f55dd140dd1e4df1c41614cb7dd76c2d&=&width=478&height=1034">
+<img align="left" alt="Coding" width="150" src="https://media.discordapp.net/attachments/1131378335205830698/1181431983956557915/IMG_0026.PNG?ex=65810946&is=656e9446&hm=9ed9a334928b3aa74e6f6c49a89d8a0471c950d1f7c65760bbfb55969946b6ca&=&width=478&height=1034">
+</Div>
+
 
  Welcome to the 1400 Merch E-Commerce App! This mobile application is built using React Native, Firebase, and Tailwind CSS.
 
